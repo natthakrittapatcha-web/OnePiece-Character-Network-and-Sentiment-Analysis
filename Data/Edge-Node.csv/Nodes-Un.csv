@@ -1,0 +1,654 @@
+﻿ID,Label,Affiliations
+1,Anjo,Citizen
+2,Benn Beckman,Pirate
+3,Bonk Punch,Pirate
+4,Chicken,Citizen
+5,Gol D. Roger,Pirate
+6,Gyoru,Citizen
+7,Higuma,Bandit
+8,Hongo,Pirate
+9,Limejuice,Pirate
+10,Lord of the Coast,Animal
+11,Lucky Roux,Pirate
+12,Makino,Citizen
+13,Monkey D. Luffy,Pirate
+14,Monster,Pirate
+15,Shanks,Pirate
+16,Woop Slap,Citizen
+17,Yasopp,Pirate
+18,Alvida,Pirate
+19,Heppoko,Pirate
+20,Koby,Marine
+21,Peppoko,Pirate
+22,Poppoko,Pirate
+23,Helmeppo,Marine
+24,Rika,Citizen
+25,Zoro,Pirate
+26,Soro,Animal
+27,Morgan,Marine
+28,Ririka,Pirate
+29,Rokkaku,Marine
+30,Ukkari,Marine
+31,Shimotsuki Koushirou,Citizen
+32,Shimotsuki Kuina,Citizen
+33,Ripper,Marine
+34,Nami,Pirate
+35,Pinky,Animal
+36,Buggy,Pirate
+37,Cabaji,Pirate
+38,Mohji,Pirate
+39,Richie,Pirate
+40,Boodle,Citizen
+41,Chouchou,Animal
+42,Hocker,Citizen
+43,Poro,Citizen
+44,Scopper Gaban,Pirate
+45,Silvers Rayleigh,Pirate
+46,Cocox,Animal
+47,Gaimon,Citizen
+48,Kirinkodanuki,Animal
+49,Lionbuta,Animal
+50,Usagihebi,Animal
+51,Kaya,Citizen
+52,Kuro,Pirate
+53,Ninjin,Citizen
+54,Piiman,Citizen
+55,Tamanegi,Citizen
+56,Usopp,Pirate
+57,Merry,Citizen
+58,Jango,Marine
+59,Buchi,Pirate
+60,Sham,Pirate
+61,Nugire Yainu,Pirate
+62,Banchina,Citizen
+63,Building Snake,Pirate
+64,Going Merry,Pirate
+65,Johnny,Citizen
+66,Yosaku,Citizen
+67,Batchee,Animal
+68,Fullbody,Marine
+69,Moodie,Citizen
+70,Motzel,Citizen
+71,Sanji,Pirate
+72,Zeff,Chef
+73,Gin,Pirate
+74,Lines,Marine
+75,Pandaman,Citizen
+76,Patty,Chef
+77,Carne,Chef
+78,Krieg,Pirate
+79,Dracule Mihawk,Pirate
+80,Pearl,Pirate
+81,Ideaman,Pirate
+82,Arlong,Pirate
+83,Chabo,Pirate
+84,Chew,Pirate
+85,Hatchan,Pirate
+86,Kuroobi,Pirate
+87,Nezumi,Marine
+88,Nojiko,Citizen
+89,Genzo,Citizen
+90,Kaneshiro,Pirate
+91,Pisaro,Pirate
+92,Momoo,Animal
+93,Pudding Pudding,Marine
+94,Shioyaki,Pirate
+95,Take,Pirate
+96,Bell-mère,Citizen
+97,Nako,Citizen
+98,Daddy Dee,Citizen
+99,Mummy Mee,Citizen
+100,Bogard,Marine
+101,Monkey D. Garp,Marine
+102,Sam,Citizen
+103,Packy,Pirate
+104,Billy,Animal
+105,Brannew,Marine
+106,Cancer,Marine
+107,John Giant,Marine
+108,Koze,Pirate
+109,Stainless,Marine
+110,Tashigi,Marine
+111,Hanger,Citizen
+112,Ipponmatsu,Citizen
+113,Ipponume,Citizen
+114,Smoker,Marine
+115,Mashikaku,Marine
+116,Sapi,Citizen
+117,Yu,Citizen
+118,Monkey D. Dragon,Revolutionary Army
+119,Crocus,Citizen
+120,Laboon,Animal
+121,Mr. 9,Bounty Hunter
+122,Nefertari Vivi,Noble
+123,Yorki,Pirate
+124,Miss Friday,Bounty Hunter
+125,Mr. 13,Bounty Hunter
+126,Igaram,Royal Guard
+127,Miss Catherina,Bounty Hunter
+128,Mr. Beans,Bounty Hunter
+129,Miss Monday,Bounty Hunter
+130,Mr. Shimizu,Bounty Hunter
+131,Karoo,Animal
+132,Gem,Bounty Hunter
+133,Mikita,Bounty Hunter
+134,Banchi,Animal
+135,Nico Robin,Pirate
+136,Brogy,Pirate
+137,Louis Arnote,Citizen
+138,Dorry,Pirate
+139,Galdino,Pirate
+140,Marianne,Bounty Hunter
+141,Samurai Batts,Citizen
+142,Crocodile,Pirate
+143,Mr. 11,Bounty Hunter
+144,Akumai,Pirate
+145,Bentham,Prisoner
+146,Island Eater,Animal
+147,Raideen,Pirate
+148,Yuki,Citizen
+149,Chess,Pirate
+150,Kuromarimo,Pirate
+151,Wapol,Pirate
+152,Dalton,Noble
+153,Negikuma Maria,Citizen
+154,Kureha,Citizen
+155,Tamachibi,Citizen
+156,Tony Tony Chopper,Pirate
+157,Robson,Animal
+158,Hiriluk,Citizen
+159,Nefertari Cobra,Noble
+160,Thalassa Lucas,Noble
+161,Chessmarimo,Pirate
+162,Portgas D. Ace,Pirate
+163,Chaka,Royal Guard
+164,Miss Mother's Day,Bounty Hunter
+165,Miss Saturday,Bounty Hunter
+166,Miss Thursday,Bounty Hunter
+167,Miss Tuesday,Bounty Hunter
+168,Mr. 6,Bounty Hunter
+169,Mr. 10,Bounty Hunter
+170,Mr. 12,Bounty Hunter
+171,Pell,Royal Guard
+172,Puppu,Pirate
+173,Yoshimoto,Citizen
+174,Mr. Mellow,Bounty Hunter
+175,Babe,Bounty Hunter
+176,Daz Bonez,Pirate
+177,Drophy,Bounty Hunter
+178,Lassoo,Animal
+179,Zala,Bounty Hunter
+180,Matsuge,Animal
+181,Agotogi,Theif
+182,Aswa,Citizen
+183,Koza,Citizen
+184,Okame,Citizen
+185,Toto,Citizen
+186,Kebi,Citizen
+187,Natto,Citizen
+188,Erik,Citizen
+189,Farafra,Citizen
+190,Kappa,Citizen
+191,Ultraking,Citizen
+192,Hina,Marine
+193,Hasami,Animal
+194,Hikoichi,Animal
+195,Ivan X,Animal
+196,Kentauros,Animal
+197,Bourbon Jr.,Animal
+198,Cowboy,Animal
+199,Stomp,Animal
+200,Mr. 7,Bounty Hunter
+201,Camie,Citizen
+202,Pappag,Animal
+203,Barrel,Royal Guard
+204,Brahm,Royal Guard
+205,Hyota,Royal Guard
+206,Arrow,Royal Guard
+207,Gyaro,Pirate
+208,Macro,Pirate
+209,Tansui,Pirate
+210,Miss Father's Day,Bounty Hunter
+211,Mr. Love,Bounty Hunter
+212,Ho,Citizen
+213,Terracotta,Citizen
+214,Shine,Marine
+215,Maidy,Citizen
+216,Nefertari Titi,Noble
+217,Potsun,Citizen
+218,Willie Gallon,Citizen
+219,Masira,Pirate
+220,Bellamy,Pirate
+221,Jesus Burgess,Pirate
+222,Jew Wall,Citizen
+223,Roshio,Pirate
+224,Sarquiss,Pirate
+225,Van Augur,Pirate
+226,Doc Q,Pirate
+227,Eddy,Pirate
+228,Hewitt,Pirate
+229,Lily,Pirate
+230,Mani,Pirate
+231,Marshall D. Teach,Pirate
+232,Muret,Pirate
+233,Rivers,Pirate
+234,Ross,Pirate
+235,Spector,Citizen
+236,Stronger,Animal
+237,Terry,Citizen
+238,Okome,Pirate
+239,Shoujou,Pirate
+240,Mont Blanc Cricket,Pirate
+241,Jobo,Pirate
+242,Bartholomew Kuma,Revolutionary Army
+243,Donquixote Doflamingo,Pirate
+244,Ethanbaron V. Nusjuro,World Government
+245,Jaygarcia Saturn,World Government
+246,Marcus Mars,World Government
+247,Master,Citizen
+248,Shepherd Ju Peter,World Government
+249,Topman Warcury,World Government
+250,Edward Newgate,Pirate
+251,Jozu,Pirate
+252,Laffitte,Pirate
+253,Marco,Pirate
+254,Mozambia,Marine
+255,Rockstar,Pirate
+256,Sengoku,Marine
+257,Tate,Pirate
+258,Tsuru,Marine
+259,Gan Fall,God
+260,Pierre,Animal
+261,Wyper,Warrior
+262,Amazon,Citizen
+263,Conis,Citizen
+264,Pagaya,Citizen
+265,Su,Animal
+266,Fuza,Animal
+267,Gedatsu,Citizen
+268,Holy,Animal
+269,McKinley,Citizen
+270,Ohm,Citizen
+271,Satori,Citizen
+272,Shura,Citizen
+273,Zabo,Theif
+274,Aisa,Citizen
+275,Braham,Warrior
+276,Genbo,Warrior
+277,Kamakiri,Warrior
+278,Raki,Warrior
+279,Enel,God
+280,Yama,Citizen
+281,Nola,Animal
+282,Gode,Citizen
+283,Isa,Citizen
+284,Kotori,Citizen
+285,Hotori,Citizen
+286,Mayushika,Warrior
+287,Warashi,Warrior
+288,Yotsubane,Warrior
+289,Moyle,Citizen
+290,Mochi,Citizen
+291,Shandia Chief,Citizen
+292,Kalgara,Warrior
+293,Mont Blanc Noland,Marine
+294,Chiya,Citizen
+295,Herb,Citizen
+296,Honner,Citizen
+297,Kashigami,Animal
+298,Mousse,Citizen
+299,Seto,Citizen
+300,Coburn,Citizen
+301,Comil,Marine
+302,Aruyutayan V,Noble
+303,Ubau,God
+304,Marilyn,Citizen
+305,Kuzan,Marine
+306,Shelly,Animal
+307,Tonjit,Citizen
+308,Foxy,Pirate
+309,Hamburg,Pirate
+310,Porche,Pirate
+311,Capote,Pirate
+312,Chuchun,Pirate
+313,Itomimizu,Pirate
+314,Kibagaeru,Pirate
+315,Monda,Pirate
+316,Big Pan,Pirate
+317,Pickles,Pirate
+318,George Mach,Pirate
+319,Mountain Ricky,Pirate
+320,Gina,Pirate
+321,Donovan,Pirate
+322,Sonieh,Pirate
+323,Master of the Waters,Animal
+324,Chimney,Citizen
+325,Gonbe,Animal
+326,Kokoro,Citizen
+327,Yokozuna,Animal
+328,Hattori,Animal
+329,Iceburg,Citizen
+330,Kaku,World Government
+331,Kalifa,World Government
+332,Mikazuki,World Government
+333,Paulie,Citizen
+334,Peepley Lulu,Citizen
+335,Rob Lucci,World Government
+336,Tilestone,Citizen
+337,Tyrannosaurus,Animal
+338,Mishoin Cashible,Citizen
+339,Zambai,Bounty Hunter
+340,Blueno,World Government
+341,Ishigo Shitemanna,Citizen
+342,Kiev,Bounty Hunter
+343,Kop,Bounty Hunter
+344,Schollzo,Bounty Hunter
+345,Tamagon,Bounty Hunter
+346,Corgi,World Government
+347,Mozu,Bounty Hunter
+348,Dago,Bounty Hunter
+349,Footbianco,Bounty Hunter
+350,Franky,Pirate
+351,Kiwi,Bounty Hunter
+352,Ottoland,Bounty Hunter
+353,Kakukaku,Citizen
+354,Kyukyu,Citizen
+355,Happa Yamao,Citizen
+356,Tom,Citizen
+357,Jorge,World Government
+358,Spandam,World Government
+359,Bushon,Citizen
+360,Stevie,Citizen
+361,Jerry,World Government
+362,Funkfreed,Animal
+363,T Bone,Marine
+364,Gomorrah,Animal
+365,Sodom,Animal
+366,Nero,World Government
+367,Wanze,World Government
+368,Fukurou,World Government
+369,Jabra,World Government
+370,Kumadori,World Government
+371,Kashii,Pirate
+372,Oimo,Pirate
+373,Bas,World Government
+374,Kerville,World Government
+375,And,World Government
+376,Gatherine,Citizen
+377,Busshiri,Citizen
+378,Clou D. Clover,Citizen
+379,Gram,Citizen
+380,Hack,Citizen
+381,Hocha,Citizen
+382,Mizuira,Citizen
+383,Oran,Citizen
+384,Rint,Citizen
+385,Roche,Citizen
+386,Roji,Citizen
+387,Zadie,Citizen
+388,Jaguar D. Saul,Citizen
+389,Laskey,World Government
+390,Nico Olvia,Citizen
+391,Spandine,World Government
+392,Tsumonsieur Kamaya,World Government
+393,Sakazuki,Marine
+394,Chesskippa,Pirate
+395,Kanezenny,Citizen
+396,Nigeratta,Citizen
+397,Suzume,Animal
+398,Doberman,Marine
+399,Momonga,Marine
+400,Onigumo,Marine
+401,Strawberry,Marine
+402,Yamakaji,Marine
+403,Shu,Marine
+404,Very Good,Marine
+405,Glove,Marine
+406,Sharinguru,Marine
+407,Michael,Marine
+408,Hoichael,Marine
+409,Attach,Marine
+410,Terry Gilteo,Revolutionary Army
+411,Thatch,Pirate
+412,Brook,Pirate
+413,Perona,Pirate
+414,Absalom,Pirate
+415,Cerberus,Pirate
+416,Hildon,Pirate
+417,Buhichuck,Pirate
+418,Hogback,Pirate
+419,Rug Bear,Pirate
+420,Victoria Cindry,Pirate
+421,MocDonald,Pirate
+422,Unigaro,Pirate
+423,Jack-in-the-Box,Pirate
+424,Ryuma,Pirate
+425,Spoil,Pirate
+426,Gyoro,Pirate
+427,Nin,Pirate
+428,Bao,Pirate
+429,Gecko Moria,Pirate
+430,Kumashi,Pirate
+431,John,Pirate
+432,Hippo Gentleman,Pirate
+433,Inuppe,Pirate
+434,Lola,Pirate
+435,Risky Brothers(Zombies),Pirate
+436,Jigoro,Pirate
+437,Tararan,Pirate
+438,Wall Zombie,Pirate
+439,Oars,Pirate
+440,Risky Brothers,Pirate
+441,Charlotte Lola,Pirate
+442,Asahija,Marine
+443,Egana,Citizen
+444,Goo,Pirate
+445,Margarita,Citizen
+446,Mizuta Madaisuki,Pirate
+447,Mizuta Mawaritosuki,Pirate
+448,Duval,Citizen
+449,Motobaro,Animal
+450,Antonio,Citizen
+451,Devil Dias,Pirate
+452,Jean Bart,Pirate
+453,Rosward,World Noble
+454,Saru,Animal
+455,Sentomaru,Marine
+456,Shalria,World Noble
+457,Basil Hawkins,Pirate
+458,Bepo,Pirate
+459,Capone Bege,Pirate
+460,Eustass Kid,Pirate
+461,Gyogyo,Pirate
+462,Jewelry Bonney,Pirate
+463,Kairiken,Bounty Hunter
+464,Killer,Pirate
+465,Minoruba,Bounty Hunter
+466,Part,Pirate
+467,Penguin,Pirate
+468,Potato,Pirate
+469,Scratchmen Apoo,Pirate
+470,Shachi,Pirate
+471,Shakuyaku,Pirate
+472,Totts,Pirate
+473,Trafalgar D. Water Law,Pirate
+474,Urouge,Pirate
+475,X Drake,Pirate
+476,Charlos,World Noble
+477,Judy,Citizen
+478,Marie,Citizen
+479,Peterman,Bounty Hunter
+480,Disco,
+481,Heat,Pirate
+482,Marin,Citizen
+483,Stansen,Citizen
+484,Wire,Pirate
+485,Byron,Pirate
+486,Lacuba,Pirate
+487,Pascia,Citizen
+488,Borsalino,Marine
+489,Sicily,Marine
+490,PX-4,Marine
+491,Faust,Pirate
+492,PX-1,Marine
+493,Aphelandra,Pirate
+494,Belladonna,Citizen
+495,Gloriosa,Pirate
+496,Kikyo,Warrior
+497,Marguerite,Pirate
+498,Nerine,Warrior
+499,Sweet Pea,Pirate
+500,Kiku,Warrior
+501,Pansy,Warrior
+502,Poppy,Warrior
+503,Shion,Warrior
+504,Bacura,Animal
+505,Blue Fan,Pirate
+506,Boa Hancock,Pirate
+507,Boa Marigold,Pirate
+508,Boa Sandersonia,Pirate
+509,Cosmos,Pirate
+510,Daisy,Pirate
+511,Ran,Pirate
+512,Rindo,Pirate
+513,Salome,Animal
+514,Enishida,Citizen
+515,Pandawomanmi,Citizen
+516,Fisher Tiger,Pirate
+517,Haredas,Citizen
+518,Kitton,Citizen
+519,Taroimo,Animal
+520,Tibany,Citizen
+521,Heracles,Citizen
+522,Pekkori,Citizen
+523,Shanba,Citizen
+524,Stalker,Marine
+525,Hannyabal,Jailer
+526,Minotaurus,Jailer
+527,Pankuta Dakeyan,Prisoner
+528,Domino,Jailer
+529,Jean Goen,Prisoner
+530,An Zengaiina,Prisoner
+531,Basilisk,Jailer
+532,Jinbe,Pirate
+533,Magellan,Jailer
+534,Doha Ittanka II,Prisoner
+535,Sphinx,Jailer
+536,Saldeath,Jailer
+537,Daigin,Marine
+538,Dobby Ibadonbo,Prisoner
+539,Minokoala,Jailer
+540,Sadi,Jailer
+541,Minorhinoceros,Jailer
+542,Minozebra,Jailer
+543,Zotto,Marine
+544,Kairo Kureyo,Prisoner
+545,George Black,Prisoner
+546,Inazuma,Revolutionary Army
+547,Kinoko,Pirate
+548,Muchana,Citizen
+549,Roche Tomson,Prisoner
+550,Sukoshiba Kanishitoru,Jailer
+551,Bellett,Pirate
+552,Emporio Ivankov,Revolutionary Army
+553,Francois,Prisoner
+554,Tsunokkov,Prisoner
+555,Usakkov,Prisoner
+556,Shiryu,Pirate
+557,Bunny Joe,Revolutionary Army
+558,Akehende,Marine
+559,Lacroix,Marine
+560,Lonz,Marine
+561,Portgas D. Rouge,Citizen
+562,Reuder,Citizen
+563,A O,Pirate
+564,Decalvan Brothers,Pirate
+565,Delacuaji,Pirate
+566,Doma,Pirate
+567,Elmy,Pirate
+568,McGuy,Pirate
+569,Ramba,Pirate
+570,Squard,Pirate
+571,Aggie 68,Pirate
+572,Banshee,Pirate
+573,Barry,Pirate
+574,Cornelia,Pirate
+575,Curiel,Pirate
+576,Dogya,Pirate
+577,Ducky Bree,Pirate
+578,Finamore,Pirate
+579,Ganryu,Pirate
+580,Hublot,Pirate
+581,Kimel,Pirate
+582,Kotatsu,Pirate
+583,Kukai,Pirate
+584,Leonero,Pirate
+585,Masked Deuce,Pirate
+586,Mihar,Pirate
+587,Namur,Pirate
+588,Ossamondo,Pirate
+589,Saber,Pirate
+590,Skull,Pirate
+591,Vista,Pirate
+592,Wallace,Pirate
+593,Atmos,Pirate
+594,Bastille,Pirate
+595,Bizarre,Marine
+596,Blamenco,Pirate
+597,Blenheim,Pirate
+598,Dalmatian,Marine
+599,Epoida,Pirate
+600,Fossa,Pirate
+601,Haruta,Pirate
+602,Islewan,Pirate
+603,Izou,Pirate
+604,Karma,Pirate
+605,Palms,Pirate
+606,Pavlik,Pirate
+607,Rakuyo,Pirate
+608,Speed Jiru,Pirate
+609,Zodia,Pirate
+610,Little Oars Jr.,Pirate
+611,Choi,Pirate
+612,Arthur,Pirate
+613,Hangan,Pirate
+614,Whitey Bay,Pirate
+615,Candre,Marine
+616,Sancrin,Pirate
+617,Andre,Pirate
+618,Blondie,Pirate
+619,Amadob,Pirate
+620,Baggaley,Pirate
+621,Brew,Pirate
+622,Brocca,Pirate
+623,Wallem,Pirate
+624,Kingdew,Pirate
+625,Zucca,Pirate
+626,Agsilly,Pirate
+627,Kinga,Pirate
+628,Avalo Pizarro,Pirate
+629,Catarina Devon,Pirate
+630,Sanjuan Wolf,Pirate
+631,Vasco Shot,Pirate
+632,Julius,Pirate
+633,Gab,Pirate
+634,Chadros Higelyges,Pirate
+635,Curly Dadan,Bandit
+636,Dogra,Bandit
+637,Magra,Bandit
+638,Porchemy,Pirate
+639,Sabo,Citizen
+640,Bluejam,Pirate
+641,Didit,Noble
+642,Outlook III,Noble
+643,Sterry,Noble
+644,Ahho Desunen IX,Noble
+645,Ahho Zurako,Noble
+646,Jalmack,World Noble
+647,Karasu,Revolutionary Army
+648,Fishbonen,Marine
+649,Haritsu Kendiyo,Pirate
+650,Kasa,Citizen
+651,Kibin,Marine
+652,Scotch,Pirate
+653,Gorilla,Marine
